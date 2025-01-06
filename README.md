@@ -1,1 +1,2 @@
-# Example.CV
+# Muhammad Rizky Ramadhan
+Junior Frontend Developer
